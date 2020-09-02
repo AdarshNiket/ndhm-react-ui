@@ -1,0 +1,32 @@
+/* @charset "utf-8"; */
+
+// Small devices (phones)
+@media only screen and (min-width: 576px) and (max-width: 768px) and (orientation: portrait) {
+}
+
+// Medium devices (tablets, Retina iPad)
+@media only screen and (min-width: 768px) and (max-width: 992px) and (orientation: portrait) and (-webkit-min-device-pixel-ratio: 2) {
+}
+
+// Medium devices (tablets)
+@media only screen and (min-width: 768px) and (max-width: 992px) and (orientation: portrait) and (-webkit-min-device-pixel-ratio: 1) {
+}
+
+// Medium devices (tablets, Retina iPad)
+@media only screen and (min-width: 768px) and (max-width: 992px) and (orientation: landscape) and (-webkit-min-device-pixel-ratio: 2) {
+}
+
+// Medium devices (tablets)
+@media only screen and (min-width: 768px) and (max-width: 992px) and (orientation: landscape) and (-webkit-min-device-pixel-ratio: 1) {
+}
+
+// Large devices (desktops)
+@media only screen and(min-width: 992px) and (max-width: 1200px) {
+}
+
+// Extra large devices (large desktops)
+@media only screen and (min-width: 1200px) and (max-width: 1920px) {
+}
+
+/* @media only screen and (max-width: 1920px) {
+} */
